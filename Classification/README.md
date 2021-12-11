@@ -1,8 +1,8 @@
-    - [ ] entiment Analysis - https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis
-    - [ ] Recommender Systems - https://www.projectpro.io/project-use-case/music-recommendation-challenge
-    - [ ] Spam email filtering - 
-        - [ ] Case-based filtering
-        - [ ] Adaptive filtering
-        - [ ] Rule-based filtering
-        - [ ] Content-based filtering
-        - [ ] Content-based filtering
+    - Sentiment Analysis
+    - Recommender Systems
+    - Spam email filtering
+        - Case-based filtering
+        - Adaptive filtering
+        - Rule-based filtering
+        - Content-based filtering
+        - Content-based filtering
