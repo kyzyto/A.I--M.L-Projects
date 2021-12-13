@@ -4,5 +4,6 @@ These are projects on Artificial Intelligence and Machine Learning
   * Prediction
   * Computer Vision
   * Deep Learning
+  * Graphic User Interface(GUI) DevOPs
   * Natural Language Processing
   * Times Series Data
