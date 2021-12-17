@@ -1,7 +1,7 @@
   # Classification
 * Sentiment Analysis
 * Recommender Systems
-* Filtering
+  * Filtering
     * Case-based filtering
     * Adaptive filtering
     * Rule-based filtering
