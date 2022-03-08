@@ -6,7 +6,14 @@ It uses user/customer data (what user watches, what user buyes what music user l
 * Adaptive filtering
 * Rule-based filtering
 * Content-based filtering
-* Collaborative filtering (i.e clustering-based recommendation systems)
-  * Determing a list of users similar to a user **U**
-  * Then calculate the rating **R** that **U** would give to a certain item **I**.
-  * Predict whether a user's rating **R** for an item **I** will be close to the average of the ratings given to **I** by the top 5 or top 10 users most similar     to  **U**
+* Collaborative filtering (i.e clustering-based recommendation systems) - It includes user-based(user-user collaborative filtering) and item-based(item-item collaborative filtering)
+  * user-based
+    * Determing a list of users similar to a user **U**
+    * Then calculate the rating **R** that **U** would give to a certain item **I**, which hasn't been rated.
+    * Predict whether a user's rating **R** for an item **I** will be close to the average of the ratings given to **I** by the top 5 or top 10 users most  
+      similar to **U**
+  * item-based
+    * Determing a list of items similar to a user **U**
+    * Then calculate the rating **R** that **I** would recieve from certain user **U** who hasn't rated it.
+    * Predict whether a item's rating **R** by a user **U** will be close to the average of the ratings recieved by **U** for the top 5 or top 10 items most 
+      similar to **I**
