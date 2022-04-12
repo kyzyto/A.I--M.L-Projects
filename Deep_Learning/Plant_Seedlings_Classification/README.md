@@ -22,3 +22,8 @@ The field of biology(i.e agriculture) has been in urgent need of modernizing, si
 Despite several advances in agricultural technology, people working in the agricultural industry still need to have the ability to sort and recognize different plants and weeds, which is mundane and time extensive. This is where Artificial Intelligence and Deep Learning can actually benefit the workers in this field, as the time and energy required to identify plant seedlings will be greatly shortened.
 
 This technology rivals and agruably surmounts the efficacy and efficiency of experienced manual laborers, thereby it could lead to better crop yields, freeing up of human inolvement for higher-order agricultural decision making, and in the long term will result in more sustainable environmental practices in agriculture as well.
+
+### To Run
+- Upload to Google drive
+- Install `Google Colab` from Google Workspace Marketplace into Google drive.
+- Download [images.npy](https://drive.google.com/file/d/1ws3vPoQoZaQKuj-1dF8eX4PrD-b-VRWn/view?usp=sharing) and move it to the Plant Seedlings Classification directory in your Google drive.
