@@ -20,4 +20,9 @@ Utilized Neural Networks and Convolutional Neural Networks to recognize objects 
 
 The ability to process visual information using machine learning algorithms can be very useful as demonstrated in various applications.
 
-The SVHN(Street View Housing Number) dataset contains over **600,000** labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by `Google` to improve map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents. But in order to save some computation time a `.h5` file dataset is used which subset of the original dataset. 
+The SVHN(Street View Housing Number) dataset contains over **600,000** labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by `Google` to improve map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents. But in order to save some computation time a `.h5` file dataset is used which subset of the original dataset.
+
+### To Run
+- Upload to Google drive
+- Install `Google Colab` from Google Workspace Marketplace into Google drive.
+- Download [SVHN_single_grey1.h5](https://drive.google.com/file/d/1WN_Kmd2uOMRjMbf-2_CxWh84SITwzmDk/view?usp=sharing) and move it to the SVHNDR directory in your Google drive.
