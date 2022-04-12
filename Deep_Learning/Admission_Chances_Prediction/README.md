@@ -25,3 +25,7 @@ Hence motivating people all around the world to stand out in their jobs and fiel
 The current admission dataset was compiled for the prediction of admissions into the University of California, Los Angeles (UCLA).
 
 It was built to help students in shortlisting universities based on their credentials and profiles. The predicted output gives them a fair idea about their chances of getting accepted.
+
+### To Run
+- Upload to Google drive
+- Install `Google Colab` from Google Workspace Marketplace into Google drive.
