@@ -28,3 +28,7 @@ Reciever Operating Characteristic - ROC
 Area Under the ROC Curve - AUC
 
 AUC - ROC is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability.
+
+### To Run
+- Upload to Google drive
+- Install `Google Colab` from Google Workspace Marketplace into Google drive.
