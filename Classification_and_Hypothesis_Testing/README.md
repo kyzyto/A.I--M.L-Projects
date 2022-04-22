@@ -21,7 +21,7 @@
 - Discussed elaborate business recommendations.
 ## Employee Attrition - McCurr Healthcare Consultancy(MNC) Employee Attrition
 #todo context
-- Descriptive and Exploratory Data Analysis
+- Performed Descriptive and Exploratory Data Analysis
 - Performed `Feature Scaling` on dataset using `Standard Scaler`
 - Built a `Logistic Regression Model` to predict if employee will attrite or not
 - Checked performance of model.
@@ -38,3 +38,16 @@
 - Discussed Observation.
 ## Star Hotels Project - 
 #todo context
+- Proposed a Hypothesis for Hypothesis Testing 
+- Performed Descriptive and Exploratory Data Analysis
+- Identified correlations between variables
+- Built `Logistic Regression Model` with **`sklearn library`** **`statsmodels library`**
+- Built `Decision Tree Model` using `DecisionTreeClassifier`
+- Checked performance of the model
+- Built `Decision Tree - Hyperparameter Tuning Model` using `DecisionTreeClassifier`
+- Checked performance of the model
+- Identified important features
+- Built `SVM Classifier Model`
+- Checked perfomance of the model
+- Utilized confusion matrix
+- Discussed observations and business recommendations
