@@ -10,3 +10,13 @@
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
+
+## GoT - Game of Thrones Network Analysis
+## caviar_project - Caviar Investigation Phases Case Study
+## enron - Enron Corp Network Analysis
+## kalman - Tracking location and velocity of moving object in n-dimensional space
+- **2-dimensional**
+  - 
+- **3- dimensional**
+  - 
+## stocks - Network Stock Portfolio Optimization
