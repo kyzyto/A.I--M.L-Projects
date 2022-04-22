@@ -19,14 +19,13 @@
 </p>
 
 These are projects on Artificial Intelligence and Machine Learning
-  * Classification
-  * Classification and Hypothesis Testing
-  * Prediction
-  * Computer Vision
-  * Deep Learning
-  * Graphic User Interface(GUI) DevOPs
-  * Natural Language Processing
-  * Networking and Graphical Models
-  * Predictive Analytics
-  * Recommendation Systems
-  * Times Series Data
+  * [Classification](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Classification)
+  * [Classification and Hypothesis Testing](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Classification_and_Hypothesis_Testing)
+  * [Computer Vision](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Computer_Vision)
+  * [Deep Learning](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Deep_Learning)
+  * [Graphic User Interface(GUI) DevOPs](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/GUI_DevOps)
+  * [Natural Language Processing](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Natural_Language_Processing)
+  * [Networking and Graphical Models](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Networking_and_Graphical_Models)
+  * [Predictive Analytics](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Predictive_Analytics)
+  * [Recommendation Systems](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Recommendation_Systems)
+  * [Times Series Data](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Recommendation_Systems)
