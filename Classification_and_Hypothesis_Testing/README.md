@@ -36,7 +36,7 @@
 - Calculated the P-value using Z-statistic
 - Decided to reject or not to reject the null hypothesis based on the z-statistic
 - Discussed Observation.
-## Star Hotels Project - 
+## Star Hotels Project - Star Hotels Group Hypothesis Testing and Customer Classification
 #todo context
 - Proposed a Hypothesis for Hypothesis Testing 
 - Performed Descriptive and Exploratory Data Analysis
