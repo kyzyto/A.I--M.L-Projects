@@ -10,8 +10,31 @@
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 </p>
 
-## Challenger - 
-## Cost
-##
-##
-##
+## Challenger - Challenger Rocket Disaster Hypothesis Testing
+#todo context
+- Identified dependent and independent variables.
+- Built `logistic Regression Model` using `logit Regression Results`.
+## Customer_Churn - Thera Bank Credit Card Users Churn Prediction
+#todo context
+- Built `Logistic Regression Model`.
+- Built `Decision Tree Model`.
+- Discussed elaborate business recommendations.
+## Employee Attrition - McCurr Healthcare Consultancy(MNC) Employee Attrition
+#todo context
+- Descriptive and Exploratory Data Analysis
+- Performed `Feature Scaling` on dataset using `Standard Scaler`
+- Built a `Logistic Regression Model` to predict if employee will attrite or not
+- Checked performance of model.
+- Identified factors/features that drive attrition or affect attrition rate.
+- Utilized confusion matrices and `SVM Classifier`
+- Discussed observations and recommendations.
+## Service Ht - ExperienceMyServices Hypothesis Testing
+#todo context
+- Defined null and alternate hypotheses
+- Decided significance level
+- Identified the test statistic
+- Calculated the P-value using Z-statistic
+- Decided to reject or not to reject the null hypothesis based on the z-statistic
+- Discussed Observation.
+## Star Hotels Project - 
+#todo context
