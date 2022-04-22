@@ -17,6 +17,6 @@
 ## kalman - Tracking location and velocity of moving object in n-dimensional space
 - **2-dimensional**
   - 
-- **3- dimensional**
+- **3-dimensional**
   - 
 ## stocks - Network Stock Portfolio Optimization
