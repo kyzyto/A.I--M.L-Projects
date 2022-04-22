@@ -1,4 +1,1 @@
-# Prediction
-* Sales Forecasting
-* Weather Forecasting
-* Customer Churn Prediction
+# Regression and Prediction Projects
