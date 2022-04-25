@@ -12,7 +12,15 @@
 </p>
 
 ## GoT - Game of Thrones Network Analysis
--  #todo
+Game of Thrones is a wildly popular television series by HBO, and I intend to analyze the co-occurrence network of the characters in the Game of Thrones books. It is important to note that if two characters are considered to co-occur if their names appear in the vicinity of 15 words from on another in the books.
+-  Performed Descriptive analytics.
+-  Ran Network Analysis Algorithms on individual books and combined.
+-  Calculated the different centralities measures(i.e `degree`,`eigenvector`, and `betweenness`) and provide inference.
+-  Created Network Graphs using Plotly to visualized each book.
+-  Documented a summary of observations.
+-  Ran `Louvain Community` Detection and found out different groups/communities in the data.
+-  Discussed finding and results.
+-                 #todo - add screenshot of results.
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
 -  #todo
 ## enron - Enron Corp Network Analysis
