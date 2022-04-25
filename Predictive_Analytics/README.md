@@ -14,7 +14,7 @@
 - Built `Predictive Models` such as; 
   - Linear Regression Model
   - Decision Tree Model
-  - Pruned Decision Tree Model
+  - **Pruned** Decision Tree Model
   - Random Forest Model
 - Built features with Deep Feature Synthesis using the [featuretools](https://www.featuretools.com/) package
 - Used Automated `feature engineering` to create new features.
@@ -26,7 +26,7 @@
   - `Linear Regression Model`
   - `Decision Tree Model`
   - **Pruned** `Decision Tree Model`
-  - Random `Forest Model`
+  - `Random Forest Model`
 - Built features with Deep Feature Synthesis using the [featuretools](https://www.featuretools.com/) package
 - Used Automated `feature engineering` to create new features.
 - Predicted the duration for the taxi ride.
