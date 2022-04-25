@@ -13,7 +13,7 @@
 ## Challenger - Challenger Rocket Disaster Hypothesis Testing
 #todo context
 - Identified dependent and independent variables.
-- Built `logistic Regression Model` using `logit Regression Results`.
+- Built `Logistic Regression Model` using `logit Regression Results`.
 ## Customer_Churn - Thera Bank Credit Card Users Churn Prediction
 #todo context
 - Built `Logistic Regression Model`.
@@ -28,6 +28,15 @@
 - Identified factors/features that drive attrition or affect attrition rate.
 - Utilized confusion matrices and `SVM Classifier`
 - Discussed observations and recommendations.
+## Insurance_Ht - Titan Insurance Company Hypothesis Testing
+#todo context
+- Performed Descriptive and Exploratory Data Analysis
+- Defined null and alternate hypothesis
+- Selected appriopriate test
+- Decided the significance level
+- Calculated the P-value.
+- Compare the P-value to the significance level to draw an inference and conclusion
+- Discussed Observations
 ## Service Ht - ExperienceMyServices Hypothesis Testing
 #todo context
 - Defined null and alternate hypotheses
