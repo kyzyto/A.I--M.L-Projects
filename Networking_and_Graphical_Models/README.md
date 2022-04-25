@@ -13,20 +13,19 @@
 
 ## GoT - Game of Thrones Network Analysis
 -  #todo
-## caviar_project - Caviar Investigation Phases Case Study
+## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
 -  #todo
 ## enron - Enron Corp Network Analysis
 Enron Corp was on of the biggest firms in USA and was delivering splendid performance  on the wall street. However, they declared bankruptcy and the Enron leadership was involved in one fo the biggest frauds and this particular fraud has been an area of interest for many **Research Scientists** and **Machine Learning Practioners**.
 - Read data and understood the structure of the data.
 - Put the data into a Graph.
 - Identified the important nodes from the visualization
-- Calculate the centrality measures and quantified the importance of;
+- Calculated the centrality measures and quantified the importance of;
     - `degree centrality`
     - `eigenvector centrality`
     - `closeness centrality`
     - `betweenness centrality`
 ## kalman - Tracking location and velocity of moving object in n-dimensional space
-
 - **2-dimensional**
   -  #todo
 - **3-dimensional**
