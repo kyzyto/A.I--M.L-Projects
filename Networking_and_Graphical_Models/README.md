@@ -20,7 +20,6 @@ Game of Thrones is a wildly popular television series by HBO, and I intend to an
 -  Documented a summary of observations.
 -  Ran `Louvain Community` Detection and found out different groups/communities in the data.
 -  Discussed finding and results.
--                 #todo - add screenshot of results.
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
 This project offered a rare opportunity to study a criminal network in upheaval by police forces.
 -  Ran Network Analysis Algorithm
