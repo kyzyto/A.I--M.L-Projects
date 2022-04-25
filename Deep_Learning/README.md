@@ -24,9 +24,9 @@
 - Built a `Neural Network Model with `Dropout technique` and checked for reduced `False Negative rate`.
 - Built a `Neural Network Model` with `Hyperparameter Optimization` techniques such as `RandomizedSearch` and `Keras Tuner` to increase `F1 score`.
 
-# Plant Seedling Image Recognition & Classification
+## Plant Seedling Image Recognition & Classification
 - Built a CNN(Convolutional Neural Network) model that can identify a plant seeding species at various growth stages in images.
 
-# SVHN(Street View Housing Number) Digit Recognition
+## SVHN(Street View Housing Number) Digit Recognition
 - Built a feed forward NN(Neural Network) model that can identify the digits in images.
 - Built a CNN(Convolutional Neural Network) model that can identify the digits in images.
