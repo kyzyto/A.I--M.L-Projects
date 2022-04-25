@@ -12,7 +12,7 @@
 </p>
 
 ## stocks - Network Stock Portfolio Optimization
-Basing my approach towards this project of the [research paper](https://arxiv.org/pdf/1608.03058.pdf).
+The approach towards this project was based of the ***Research Paper* on Quantitative Finance** - [Dynamic portfolio strategy using clustering approach](https://arxiv.org/pdf/1608.03058.pdf).
 
 Active investing in the asset management industry aims to beat the stock market’s average returns and portfolio managers track a particular index and try to beat that index by creating their own portfolios.
 
