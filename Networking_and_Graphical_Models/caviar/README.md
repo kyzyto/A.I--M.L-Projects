@@ -11,8 +11,7 @@
 
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
 -  Ran Network Analysis Algorithm
--  Generated graphs.
--  Visualized graphs.
--  Utilized and Visualized the Centralities measures(i.e `degree`, `eigenvector`, `betweenness`, `closeness`).
+-  Generated and Visualized graphs.
+-  Utilized and Visualized the centralities measures(i.e `degree`, `eigenvector`, `betweenness`, `closeness`).
 -  Understand the variation of node importance across phases.
 -  Documented comments and summary.
