@@ -7,13 +7,12 @@
 ### Main Librarys and Modules
 <p><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
--  Generated graph.
--  Visualized graph.
--  Centralities.
+-  Ran Network Analysis Algorithm
+-  Generated graphs.
+-  Visualized graphs.
+-  Utilized and Visualized the Centralities measures(i.e `degree`, `eigenvector`, `betweenness`, `closeness`).
 -  Understand the variation of node importance across phases.
 -  Documented comments and summary.
