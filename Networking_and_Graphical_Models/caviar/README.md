@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police of Canada
+## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
 -  #todo
