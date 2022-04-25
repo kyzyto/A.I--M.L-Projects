@@ -12,4 +12,5 @@
 
 ## GoT - Game of Thrones Network Analysis
 -  #todo
+-  #todo - add screenshot of results.
 
