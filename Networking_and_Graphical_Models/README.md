@@ -27,9 +27,12 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
     - `betweenness centrality`
 - Discussed Observations and Discoveries.
 ## kalman - Tracking location and velocity of moving object in n-dimensional space
-- **2-dimensional**
-  -  #todo
-- **3-dimensional**
-  -  #todo
+- **2-dimensional**<br>
+  The only information available to us is the initial location (and velocity) and a series of noisy measurements of the velocity as the object moves in space. The key assumption of this problem is that the `true velocity of the object is known to be a constant`. However, the `constant velocity is not known to us`.
+  -  Tracked the location (and velocity) of a moving object, e.g. a car, in a 2-dimensional space.
+- **3-dimensional**<br>
+  Factoring gravity to act on the ball and the intial position as well as the velocities are assumed to be known. Noisy location estimates would be used using a simulated sensor. 
+  -  Tracked the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space.
+  -  Estimated the true location (and velocity) of the ball in 3D space
 ## stocks - Network Stock Portfolio Optimization
 -  #todo
