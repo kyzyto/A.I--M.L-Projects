@@ -33,6 +33,6 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
 - **3-dimensional**<br>
   Factoring gravity to act on the ball and the intial position as well as the velocities are assumed to be known. Noisy location estimates would be used using a simulated sensor. 
   -  Tracked the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space.
-  -  Estimated the true location (and velocity) of the ball in 3D space
+  -  Estimated the true location (and velocity) of the ball in 3D space.
 ## stocks - Network Stock Portfolio Optimization
 -  #todo
