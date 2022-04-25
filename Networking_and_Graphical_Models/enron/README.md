@@ -15,9 +15,10 @@
 Enron Corp was on of the biggest firms in USA and was delivering splendid performance  on the wall street. However, they declared bankruptcy and the Enron leadership was involved in one fo the biggest frauds and this particular fraud has been an area of interest for many **Research Scientists** and **Machine Learning Practioners**.
 - Read data and understood the structure of the data.
 - Put the data into a Graph.
-- Identified the important nodes from the visualization
-- Calculate the centrality measures and quantified the importance of;
+- Identified the important nodes from the visualization.
+- Calculatedthe centrality measures and quantified the importance of;
     - `degree centrality`
     - `eigenvector centrality`
     - `closeness centrality`
     - `betweenness centrality`
+- Discussed Observations and Discoveries.
