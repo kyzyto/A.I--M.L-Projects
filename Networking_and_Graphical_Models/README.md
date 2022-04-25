@@ -22,7 +22,12 @@ Game of Thrones is a wildly popular television series by HBO, and I intend to an
 -  Discussed finding and results.
 -                 #todo - add screenshot of results.
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
--                 #todo
+This project offered a rare opportunity to study a criminal network in upheaval by police forces.
+-  Ran Network Analysis Algorithm
+-  Generated and Visualized graphs.
+-  Utilized and Visualized the centralities measures(i.e `degree`, `eigenvector`, `betweenness`, `closeness`).
+-  Understand the variation of node importance across phases.
+-  Documented comments and summary.
 ## enron - Enron Corp Network Analysis
 Enron Corp was on of the biggest firms in USA and was delivering splendid performance  on the wall street. However, they declared bankruptcy and the Enron leadership was involved in one fo the biggest frauds and this particular fraud has been an area of interest for many **Research Scientists** and **Machine Learning Practioners**.
 - Read data and understood the structure of the data.
