@@ -12,4 +12,19 @@
 </p>
 
 ## stocks - Network Stock Portfolio Optimization
--  #todo
+Basing my approach towards this project of the [research paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1608.03058.pdf).
+
+Active investing in the asset management industry aims to beat the stock market’s average returns and portfolio managers track a particular index and try to beat that index by creating their own portfolios.
+
+Portfolio construction involves selection of stocks that have a higher probability of giving better returns in comparison to the tracking index, like S&P 500. In this project, we will use the concept of Network Analysis to select a basket of stocks and create two portfolios. We will then simulate portfolio value by investing a certain amount, keeping the portfolio for an entire year and we will then compare it against the S&P 500 index.
+
+-  Peformed data collection via web scraping and APIs.
+-  Computed log returns
+-  Computed correlation matrix for log returns
+-  Find out the Top n central and peripheral stocks based on the following network topological parameters:
+   - `Degree centrality`
+   - `Betweenness centrality`
+   - Distance on degree criterion
+   - Distance on correlation criterion
+   - Distance on distance criterion
+-  Simulated the performance of central and peripheral portfolios against the performance of most resent period.
