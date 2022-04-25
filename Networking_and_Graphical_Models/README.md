@@ -48,4 +48,13 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
   -  Tracked the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space.
   -  Estimated the true location (and velocity) of the ball in 3D space.
 ## stocks - Network Stock Portfolio Optimization
--                   #todo
+-  Peformed data collection via web scraping and APIs.
+-  Computed log returns
+-  Computed correlation matrix for log returns
+-  Find out the Top n central and peripheral stocks based on the following network topological parameters:
+   - `Degree centrality`
+   - `Betweenness centrality`
+   - Distance on degree criterion
+   - Distance on correlation criterion
+   - Distance on distance criterion
+-  Simulated the performance of central and peripheral portfolios against the performance of most resent period.
