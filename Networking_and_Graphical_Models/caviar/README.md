@@ -12,4 +12,8 @@
 </p>
 
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
--  #todo
+-  Generated graph.
+-  Visualized graph.
+-  Centralities.
+-  Understand the variation of node importance across phases.
+-  Documented comments and summary.
