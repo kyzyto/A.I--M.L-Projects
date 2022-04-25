@@ -25,6 +25,7 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
     - `eigenvector centrality`
     - `closeness centrality`
     - `betweenness centrality`
+- Discussed Observations and Discoveries.
 ## kalman - Tracking location and velocity of moving object in n-dimensional space
 - **2-dimensional**
   -  #todo
