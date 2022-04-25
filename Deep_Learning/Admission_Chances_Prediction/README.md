@@ -1,7 +1,7 @@
 # Admission Prediction
 
-- Built a Classification model using neural networks to predict an applicant's chances of admission into UCLA(University of California, Los Angeles).
-- Utilized One hot encoding and scaling variable.
+- Built a `Classification Model` using neural networks to predict an applicant's chances of admission into UCLA(University of California, Los Angeles).
+- Utilized `One Hot Encoding` and scaling variable.
 - Utilized optimized algorithms.
 - Developed hyper-parameters.
 
