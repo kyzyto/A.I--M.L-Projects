@@ -22,7 +22,7 @@ Game of Thrones is a wildly popular television series by HBO, and I intend to an
 -  Discussed finding and results.
 -                 #todo - add screenshot of results.
 ## caviar - Caviar Investigation Phases Case Study by the Royal Canadian Mounted Police
--  #todo
+-                 #todo
 ## enron - Enron Corp Network Analysis
 Enron Corp was on of the biggest firms in USA and was delivering splendid performance  on the wall street. However, they declared bankruptcy and the Enron leadership was involved in one fo the biggest frauds and this particular fraud has been an area of interest for many **Research Scientists** and **Machine Learning Practioners**.
 - Read data and understood the structure of the data.
@@ -43,4 +43,4 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
   -  Tracked the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space.
   -  Estimated the true location (and velocity) of the ball in 3D space.
 ## stocks - Network Stock Portfolio Optimization
--  #todo
+-                   #todo
