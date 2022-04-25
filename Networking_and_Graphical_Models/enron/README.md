@@ -16,7 +16,7 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
 - Read data and understood the structure of the data.
 - Put the data into a Graph.
 - Identified the important nodes from the visualization.
-- Calculatedthe centrality measures and quantified the importance of;
+- Calculated the centrality measures and quantified the importance of;
     - `degree centrality`
     - `eigenvector centrality`
     - `closeness centrality`
