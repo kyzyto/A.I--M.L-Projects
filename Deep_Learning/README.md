@@ -10,3 +10,16 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></p>
+
+## Admission Prediction
+- Built a `Classification Model` using neural networks to predict an applicant's chances of admission into UCLA(University of California, Los Angeles).
+- Utilized `One Hot Encoding` and scaling variable.
+- Utilized optimized algorithms.
+- Developed hyper-parameters.
+
+## Employee Attrition Optimization
+- Built a `Neural Network Model`.
+- Built an improve `Neural Network Model by changing optimizer, tuned the decision threshold, increased layers, and configured some other hyperparameters.
+- Built a `Neural Network Model` with `Batch Normalization` technique and checked for increase `F1 score`.
+- Built a `Neural Network Model with `Dropout technique` and checked for reduced `False Negative rate`.
+- Built a `Neural Network Model` with `Hyperparameter Optimization` techniques such as `RandomizedSearch` and `Keras Tuner` to increase `F1 score`.
