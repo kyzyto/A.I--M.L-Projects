@@ -13,15 +13,4 @@
 
 ## GoT - Game of Thrones Network Analysis
 -  #todo
-## caviar_project - Caviar Investigation Phases Case Study
--  #todo
-## enron - Enron Corp Network Analysis
--  #todo
-## kalman - Tracking location and velocity of moving object in n-dimensional space
 
-- **2-dimensional**
-  -  #todo
-- **3-dimensional**
-  -  #todo
-## stocks - Network Stock Portfolio Optimization
--  #todo
