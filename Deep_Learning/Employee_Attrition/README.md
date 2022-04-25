@@ -1,7 +1,7 @@
 # Employee Attrition Optimization
 
 - Built a Neural Network Model.
-- Built an improve Neural Network Model by changing optimizer, tuned the decision threshold, incresed layers, and configured some other hyperparameters.
+- Built an improve Neural Network Model by changing optimizer, tuned the decision threshold, increased layers, and configured some other hyperparameters.
 - Built a Neural Network Model with Batch Normalization technique and checked for increase `F1 score`.
 - Built a Neural Network Model with Dropout technique and checked for reduced `False Negative rate`.
 - Built a Neural Network Model with Hyperparameter Optimization techniques such as RandomizedSearch and Keras Tuner to increase `F1 score`.
