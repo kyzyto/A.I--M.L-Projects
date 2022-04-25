@@ -48,6 +48,7 @@ Enron Corp was on of the biggest firms in USA and was delivering splendid perfor
   -  Tracked the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space.
   -  Estimated the true location (and velocity) of the ball in 3D space.
 ## stocks - Network Stock Portfolio Optimization
+The approach towards this project was based of the ***`Research Paper`*** on **Quantitative Finance** - [Dynamic portfolio strategy using clustering approach](https://arxiv.org/pdf/1608.03058.pdf).
 -  Peformed data collection via web scraping and APIs.
 -  Computed log returns
 -  Computed correlation matrix for log returns
