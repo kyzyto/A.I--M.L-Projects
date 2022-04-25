@@ -1,4 +1,3 @@
-# Networking and Graphical Models
 ### Main Languages
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -11,17 +10,8 @@
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-## GoT - Game of Thrones Network Analysis
--  #todo
-## caviar_project - Caviar Investigation Phases Case Study
--  #todo
-## enron - Enron Corp Network Analysis
--  #todo
 ## kalman - Tracking location and velocity of moving object in n-dimensional space
-
 - **2-dimensional**
   -  #todo
 - **3-dimensional**
   -  #todo
-## stocks - Network Stock Portfolio Optimization
--  #todo
