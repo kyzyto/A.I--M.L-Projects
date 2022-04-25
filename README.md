@@ -20,8 +20,8 @@
 
 These are projects on Artificial Intelligence and Machine Learning
   * [Classification](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Classification)
-  * [Clustering_and_PCA](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Clustering_and_PCA)
   * [Classification and Hypothesis Testing](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Classification_and_Hypothesis_Testing)
+  * [Clustering_and_PCA](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Clustering_and_PCA)
   * [Computer Vision](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Computer_Vision)
   * [Deep Learning](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/Deep_Learning)
   * [Graphic User Interface(GUI) DevOPs](https://github.com/kyzyto/A.I--M.L-Projects/tree/main/GUI_DevOps)
