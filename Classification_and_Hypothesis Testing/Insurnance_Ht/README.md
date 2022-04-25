@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 </p>
 
-## Insurance_Ht
+## Insurance_Ht - Titan Insurance Company Hypothesis Testing
 #todo context
 - Performed Descriptive and Exploratory Data Analysis
 - Defined null and alternate hypothesis
