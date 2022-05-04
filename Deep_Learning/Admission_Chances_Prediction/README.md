@@ -29,3 +29,4 @@ It was built to help students in shortlisting universities based on their creden
 ### To Run
 - Upload to Google drive
 - Install `Google Colab` from Google Workspace Marketplace into Google drive.
+- [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
