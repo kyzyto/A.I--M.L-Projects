@@ -1,6 +1,6 @@
 # Classification and Hypothesis Testing
 * **Logistic Regression**⭐️
-* **Support Vector Machine(SVM) **⭐️
+* **Support Vector Machine(SVM)**⭐️
 * **Confindence Interval**⭐️
 ## Main Languages
 <p>
