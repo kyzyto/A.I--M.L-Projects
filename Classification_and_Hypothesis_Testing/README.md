@@ -1,4 +1,7 @@
 # Classification and Hypothesis Testing
+* **Logistic Regression**⭐️
+* **Support Vector Machine**⭐️
+* **Confindence Interval**⭐️
 ## Main Languages
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
