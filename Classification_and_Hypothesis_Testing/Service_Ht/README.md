@@ -11,7 +11,11 @@
 </p>
 
 ## Service Ht - ExperienceMyServices Hypothesis Testing
-#todo context
+
+ExperienceMyServices in a Telecommunication company. ExperienceMyServices reported that a typical American spends an average of 144 minutes (2.4 hours) per day accessing the Internet via a mobile device with a standard deviation of 110 minutes.
+
+To test the validity of this statement, you collected 30 samples from friends and family. The results for the time spent per day accessing the Internet via a mobile device (in minutes) are stored in "InternetMobileTime.csv".
+
 - Defined null and alternate hypotheses
 - Decided significance level
 - Identified the test statistic
